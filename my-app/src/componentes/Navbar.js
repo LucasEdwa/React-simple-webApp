@@ -7,7 +7,7 @@ import { AuthContext } from "../contexts/AuthContext";
 function Navbar() {
   const [auth, setAuth] = useContext(AuthContext);
   return (
-    <nav className="flex bg-gray-600 items-center fixed w-full z-50 ">
+    <nav className="flex bg-slate-900 items-center fixed w-full z-50 ">
         
         <h1 className="p-5 text-amber-500">HiStore</h1>
 
