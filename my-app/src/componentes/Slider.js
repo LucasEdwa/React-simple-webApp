@@ -1,8 +1,8 @@
 import banner01 from '../img/banner-5.jpg';
-import banner02 from '../img/banner-6.jpg';
-import banner03 from '../img/banner-7.jpg';
-import banner04 from '../img/banner-8.jpg';
-import banner05 from '../img/banner-9.jpg';
+import banner02 from '../img/pexels-fauxels-3183165.jpg';
+import banner03 from '../img/pexels-pixabay-270404.jpg';
+import banner04 from '../img/pexels-jorge-jesus-614117 (1).jpg';
+import banner05 from '../img/—Pngtree—spider web web cobweb design_534712.jpg';
 // Settings for the slider
 
 const settings = {
@@ -24,7 +24,8 @@ const slider = [
         p: "We're your digital partners, transforming your business ideas into stunning website designs. Let's embark on this digital journey together.",
         button: 'More',
         link: '/products',
-        color: 'bg-teal-700 bg-opacity-30'
+        color: 'bg-orange-700 bg-opacity-20'
+
     },
     {
         src: banner02,
@@ -57,7 +58,8 @@ const slider = [
         p: 'We are with you every step of the way. Our dedicated support team is always ready to assist you, any day, any time.',
         button: 'More',
         link: '/products',
-        color: 'bg-orange-700 bg-opacity-20'
+        color: 'bg-teal-700 bg-opacity-30'
+
 
     }
 ]
